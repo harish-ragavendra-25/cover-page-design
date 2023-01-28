@@ -1,23 +1,26 @@
-aim: create a cover page design using html and css
+# cover-page-design
 
-design steps:
+## Aim:
+create a cover page design using html and css
 
-step1:
+## Design steps:
+
+## step1:
 start a django project and create a app for project
 
-step2:
+## step2:
 change the settings and a app in installed apps
 
-step3:
+## step3:
 create a html file in templates folder
 
-step4:
+## step4:
 map the views and urls for the html file
 
-step5:
+## step5:
 push the code to github
 
-# cover-page-design
+# program:
 ```
 <!DOCTYPE html>
 <html>
@@ -146,7 +149,8 @@ push the code to github
         
     </body>
 </html>
-output:
+```
+## output:
 ![output](bookpage.png)
-result:
+## Result:
 thus the experiment executed sucessfully
